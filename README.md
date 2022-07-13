@@ -1,4 +1,4 @@
-### Olá, Galera👋
+# Olá, Galera👋
 
 - ⚡  Atualmente cursando programação 
 - 🌱  Estudando JS, CSS, HTML, PYTHON
