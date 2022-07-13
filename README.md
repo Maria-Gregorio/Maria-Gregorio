@@ -1,6 +1,6 @@
 # Olá, Galera👋
 
-- ⚡  Atualmente cursando programação 
+- ⚡   <b> Atualmente cursando programação Desenvolvimento Web <b>
 - 🌱  Estudando JS, CSS, HTML, PYTHON
 - 📫  Contate-me no email: dudagbecker@gmail.com
 - 😄 Pronouns: ela/dela
